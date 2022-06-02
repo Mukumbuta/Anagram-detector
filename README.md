@@ -1,2 +1,2 @@
 # Anagram-detector
-A Python script that detects if the given strings are Anagrams or not.
+A Python script that detects if one word is an Anagram of he other.
